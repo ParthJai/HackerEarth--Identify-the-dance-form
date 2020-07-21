@@ -26,7 +26,7 @@ Default mom is Point=(0.95, 0.85).
 4. Unfreeze whole model and train all layers again (5 epochs and fit one cycle policy).
 5. Step 5 and 6 same as 3 and 4 respectively with epoch count 3 and 1 respectively (resize from 244 to 299).
 
-Managed to achieve F1 score of 87.25834 (offline score) and 85.19924(online score). Finally secured 79th spot out of 793 in online run.
+Managed to achieve F1 score of 87.25834 (offline score) and 85.19924(online score). Finally secured 81st spot out of 793 in online run.
 
 Complete source in jupyter notebook.
 
